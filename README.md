@@ -93,58 +93,55 @@ Siga estes passos para executar o projeto localmente:
 [Aqui você poderá adicionar um link para um vídeo de demonstração do seu projeto, conforme solicitado no desafio.]
 
 ## 📂 Estrutura de Pastas
-'''text
+```text
 chat_bot/
 ├── public/
-│   └── index.html
-│       * Funcionalidade: Arquivo HTML principal que renderiza a aplicação React.
+│     └── index.html
+│          * Funcionalidade: Arquivo HTML principal que renderiza a aplicação React.
 ├── src/
-│   ├── assets/
-│   │   └── images/
-│   │       ├── CheloSkin.png
-│   │       ├── FallenSkin.png
-│   │       ├── FuriaLogo.png
-│   │       ├── FuriaLogo.webp
-│   │       ├── KsceratoSkin.webp
-│   │       ├── Molodoy.webp
-│   │       └── YuurihSkin.png
-│   │           * Funcionalidade: Contém os arquivos de imagem utilizados na aplicação.
-│   ├── components/
-│   │   ├── ChatWindow.js
-│   │   │   * Funcionalidade: Renderiza a área de exibição das mensagens do chat.
-│   │   ├── InputArea.js
-│   │   │   * Funcionalidade: Renderiza o campo de input para o usuário digitar mensagens.
-│   │   └── MessageBubble.js
-│   │       * Funcionalidade: Renderiza uma única mensagem no chat, com estilos diferentes para o usuário e o bot.
-│   ├── pages/
-│   │   ├── ChatPage.jsx
-│   │   │   * Funcionalidade: Página principal do chat, que gerencia o estado das mensagens e a interação com o bot.
-│   │   └── SplashScreen.jsx
-│   │       * Funcionalidade: Tela de abertura que exibe o logo da FURIA.
-│   ├── utils/
-│   │   └── getBotResponse.js
-│   │       * Funcionalidade: Contém a lógica para gerar as respostas do bot.
-│   ├── App.js
-│   │   * Funcionalidade: Componente principal que controla a exibição da tela de abertura e da página do chat.
-│   ├── index.js
-│   │   * Funcionalidade: Ponto de entrada da aplicação React, que renderiza o componente App no DOM.
-│   └── styles/
-│       └── index.css
-│           * Funcionalidade: Arquivo CSS principal que inclui os estilos globais e o TailwindCSS.
+│     ├── assets/
+│     │     └── images/
+│     │          ├── CheloSkin.png
+│     │          ├── FallenSkin.png
+│     │          ├── FuriaLogo.png
+│     │          ├── FuriaLogo.webp
+│     │          ├── KsceratoSkin.webp
+│     │          ├── Molodoy.webp
+│     │          └── YuurihSkin.png
+│     │               * Funcionalidade: Contém os arquivos de imagem utilizados na aplicação.
+│     ├── components/
+│     │     ├── ChatWindow.js
+│     │     │       * Funcionalidade: Renderiza a área de exibição das mensagens do chat.
+│     │     ├── InputArea.js
+│     │     │       * Funcionalidade: Renderiza o campo de input para o usuário digitar mensagens.
+│     │     └── MessageBubble.js
+│     │          * Funcionalidade: Renderiza uma única mensagem no chat, com estilos diferentes para o usuário e o bot.
+│     ├── pages/
+│     │     ├── ChatPage.jsx
+│     │     │       * Funcionalidade: Página principal do chat, que gerencia o estado das mensagens e a interação com o bot.
+│     │     └── SplashScreen.jsx
+│     │          * Funcionalidade: Tela de abertura que exibe o logo da FURIA.
+│     ├── utils/
+│     │     └── getBotResponse.js
+│     │          * Funcionalidade: Contém a lógica para gerar as respostas do bot.
+│     ├── App.js
+│     │       * Funcionalidade: Componente principal que controla a exibição da tela de abertura e da página do chat.
+│     ├── index.js
+│     │       * Funcionalidade: Ponto de entrada da aplicação React, que renderiza o componente App no DOM.
+│     └── styles/
+│          └── index.css
+│               * Funcionalidade: Arquivo CSS principal que inclui os estilos globais e o TailwindCSS.
 ├── .gitignore
-│   * Funcionalidade: Especifica os arquivos e pastas que o Git deve ignorar.
+│       * Funcionalidade: Especifica os arquivos e pastas que o Git deve ignorar.
 ├── package.json
-│   * Funcionalidade: Contém as informações do projeto e as dependências.
+│       * Funcionalidade: Contém as informações do projeto e as dependências.
 ├── package-lock.json
-│   * Funcionalidade: Garante que as dependências sejam instaladas nas versões corretas.
+│       * Funcionalidade: Garante que as dependências sejam instaladas nas versões corretas.
 ├── postcss.config.js
-│   * Funcionalidade: Configura o PostCSS, utilizado para processar o CSS.
+│       * Funcionalidade: Configura o PostCSS, utilizado para processar o CSS.
 └── tailwind.config.js
-    * Funcionalidade: Configura o TailwindCSS, definindo as cores e outras opções de estilo.
-'''
-
-
-
+        * Funcionalidade: Configura o TailwindCSS, definindo as cores e outras opções de estilo.
+```
 
 ## ✍️ Próximos Passos e Melhorias
 
