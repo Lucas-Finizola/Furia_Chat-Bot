@@ -1,4 +1,4 @@
-# Chat FURIA 
+# Chat da FURIA 
 
 ## 🏆 Status do Projeto
 
