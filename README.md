@@ -78,13 +78,15 @@ Siga estes passos para executar o projeto localmente:
     * Os principais jogadores (CS2): KSCERATO, yuurih, chelo, molodoy e FalleN.
 -   **Detalhes dos Jogadores (CS2):**
     * Funcionalidade: Exibe informações específicas sobre os jogadores.
-    * Skin favorita: Exibe a skin favorita de cada jogador com uma imagem (FalleN - AWP | Dragon Lore, yuurih - AK-47 | Fire Serpent, KSCERATO - M4A4 | Howl, chelo - USP | Kill Confirmed, molodoy - AWP | Neo-Noir).
+    * Skin favorita: Exibe a skin favorita de cada jogador com uma imagem
 -   **Interação Conversacional:**
     * Funcionalidade: Permite ao usuário se comunicar com o bot através de mensagens de texto.
     * O usuário interage com o bot digitando mensagens.
     * O bot responde com base nas palavras-chave ou opções selecionadas.
 -   **Tela de Abertura (Splash Screen):**
     * Funcionalidade: Exibe o logo da FURIA por 3 segundos ao iniciar o aplicativo para criar uma primeira impressão.
+    **Interações que faltam adicionar**
+    *Funcionadlidade: permite que o usario possa acompanhar os jogos mais recentes da furia, sua classificação e próximos campeonatos 
 
 ## 🖼️ Demonstração
 
