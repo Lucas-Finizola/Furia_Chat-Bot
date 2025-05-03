@@ -93,6 +93,7 @@ Siga estes passos para executar o projeto localmente:
 [Aqui você poderá adicionar um link para um vídeo de demonstração do seu projeto, conforme solicitado no desafio.]
 
 ## 📂 Estrutura de Pastas
+'''
 chat_bot/
 ├── public/
 │   └── index.html
@@ -139,8 +140,8 @@ chat_bot/
 ├── postcss.config.js
 │   * Funcionalidade: Configura o PostCSS, utilizado para processar o CSS.
 └── tailwind.config.js
-* Funcionalidade: Configura o TailwindCSS, definindo as cores e outras opções de estilo.
-
+    * Funcionalidade: Configura o TailwindCSS, definindo as cores e outras opções de estilo.
+'''
 
 
 
