@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Chat FURIA 🐍 - Desafio FURIA Tech
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🏆 Status do Projeto
 
-## Available Scripts
+Em desenvolvimento.
 
-In the project directory, you can run:
+## 🎯 Objetivo
 
-### `npm start`
+Criar um web chat interativo para os fãs da FURIA, oferecendo informações sobre a história do time, seus e-sports, jogadores, curiosidades e permitindo o envio de elogios e sugestões.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Tecnologias Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React:** Biblioteca JavaScript para a criação da interface do usuário.
+- **TailwindCSS:** Framework CSS utilitário para estilização rápida e responsiva.
+- **JavaScript:** Linguagem de programação para a lógica da aplicação.
+- **Vite:** Ferramenta de build moderna para desenvolvimento rápido de aplicações React.
 
-### `npm test`
+## ⚙️ Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de executar o projeto, você precisará ter as seguintes ferramentas instaladas em sua máquina:
 
-### `npm run build`
+- **Node.js:** (Versão LTS recomendada) - [Link para download](https://nodejs.org/)
+- **npm** (Gerenciador de pacotes do Node.js, instalado automaticamente com o Node.js)
+- **Git:** (Para controle de versão e clonagem do repositório) - [Link para download](https://git-scm.com/)
+- **VS Code** (Opcional, mas recomendado como editor de código) - [Link para download](https://code.visualstudio.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Como Rodar o Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Siga estes passos para executar o projeto localmente:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1.  **Clone o repositório:**
+    Se você já tiver o repositório no GitHub, clone-o para sua máquina usando o seguinte comando no terminal:
+    ```bash
+    git clone [https://docs.github.com/articles/referencing-and-citing-content](https://docs.github.com/articles/referencing-and-citing-content)
+    ```
+    Caso contrário, ignore este passo por enquanto, pois você ainda não subiu o projeto.
 
-### `npm run eject`
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd furia-chat
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+    Este comando irá baixar todas as bibliotecas e dependências necessárias listadas no arquivo `package.json`.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4.  **Execute o projeto:**
+    ```bash
+    npm run dev
+    ```
+    Este comando irá iniciar o servidor de desenvolvimento do Vite. O projeto será geralmente aberto automaticamente no seu navegador em um endereço como `http://localhost:5173`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💡 Funcionalidades Planejadas
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-   **Informações sobre a FURIA:**
+    -   História do time.
+    -   E-sports em que compete (CS:GO, Valorant, etc.).
+    -   Lista dos principais títulos conquistados.
+-   **Detalhes dos Jogadores (Exemplo CS:GO):**
+    -   Nome e nickname.
+    -   Função no time.
+    -   Curiosidades (mira, skin favorita - a serem implementadas).
+-   **Interação Conversacional:**
+    -   Interface de chat para o usuário fazer perguntas.
+    -   Respostas do chatbot baseadas em palavras-chave.
+-   **Feedback dos Fãs:**
+    -   Área para envio de elogios e sugestões (implementação futura).
 
-## Learn More
+## 🖼️ Demonstração
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Aqui você poderá adicionar um link para um vídeo de demonstração do seu projeto, conforme solicitado no desafio.]
