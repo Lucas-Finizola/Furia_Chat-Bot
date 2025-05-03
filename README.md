@@ -148,17 +148,6 @@ chat_bot/
 -   Melhorar a lógica do chatbot para entender mais variações de perguntas.
 -   Otimizar a responsividade para diferentes tamanhos de tela.
 
-## 🤝 Contribuição
-
-[Se você quiser abrir o projeto para contribuições futuras, explique aqui como as pessoas podem contribuir.]
-
-## 📄 Licença
-
-[Se você quiser adicionar uma licença ao seu projeto, como MIT ou Apache, inclua as informações aqui.]
-
-## 📧 Contato
-
-[Se você quiser adicionar suas informações de contato, como e-mail ou LinkedIn, inclua aqui.]
 
 
 
