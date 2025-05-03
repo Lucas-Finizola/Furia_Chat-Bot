@@ -85,8 +85,6 @@ Siga estes passos para executar o projeto localmente:
     * O bot responde com base nas palavras-chave ou opções selecionadas.
 -   **Tela de Abertura (Splash Screen):**
     * Funcionalidade: Exibe o logo da FURIA por 3 segundos ao iniciar o aplicativo para criar uma primeira impressão.
-    **Interações que faltam adicionar**
-    *Funcionadlidade: permite que o usario possa acompanhar os jogos mais recentes da furia, sua classificação e próximos campeonatos 
 
 ## 🖼️ Demonstração
 
@@ -146,8 +144,8 @@ chat_bot/
 ## ✍️ Próximos Passos e Melhorias
 
 -   Adicionar funcionalidade para salvar elogios e sugestões dos usuários.
+-   Permite que o usario possa acompanhar os jogos mais recentes da furia, sua classificação e próximos campeonatos 
 -   Melhorar a lógica do chatbot para entender mais variações de perguntas.
--   Implementar testes unitários e de integração (opcional, mas recomendado para projetos maiores).
 -   Otimizar a responsividade para diferentes tamanhos de tela.
 
 ## 🤝 Contribuição
