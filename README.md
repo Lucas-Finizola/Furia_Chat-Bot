@@ -39,7 +39,8 @@ Siga estes passos para executar o projeto localmente:
 1.  **Clone o repositório:**
     Se você já tiver o repositório no GitHub, clone-o para sua máquina usando o seguinte comando no terminal:
     ```bash
-    git clone [https://docs.github.com/articles/referencing-and-citing-content](https://docs.github.com/articles/referencing-and-citing-content)
+      git clone https://github.com/Lucas-Finizola/chat_bot.git
+
     ```
     Caso contrário, ignore este passo por enquanto, pois você ainda não subiu o projeto.
 
