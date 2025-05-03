@@ -144,7 +144,7 @@ chat_bot/
 ## ✍️ Próximos Passos e Melhorias
 
 -   Adicionar funcionalidade para salvar elogios e sugestões dos usuários.
--   Permite que o usario possa acompanhar os jogos mais recentes da furia, sua classificação e próximos campeonatos 
+-   Permitir que o usario possa acompanhar os jogos mais recentes da furia, sua classificação e próximos campeonatos 
 -   Melhorar a lógica do chatbot para entender mais variações de perguntas.
 -   Otimizar a responsividade para diferentes tamanhos de tela.
 
