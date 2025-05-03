@@ -1,4 +1,4 @@
-# Chat FURIA 🐍 - Desafio FURIA Tech
+# Chat FURIA - Desafio FURIA Tech
 
 ## 🏆 Status do Projeto
 
