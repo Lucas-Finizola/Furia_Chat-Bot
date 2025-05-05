@@ -2,7 +2,7 @@
 
 ## 🏆 Status do Projeto
 
-Em desenvolvimento.
+versão beta.
 
 ## 🎯 Objetivo
 
@@ -89,7 +89,7 @@ Siga estes passos para executar o projeto localmente:
 
 ## 🖼️ Demonstração
 
-[]
+[https://drive.google.com/file/d/1PcOI_jImUYf33pQ_o6eJT8zxt8QIFuVL/view?usp=drivesdk]
 
 ## 📂 Estrutura de Pastas
 ```text
