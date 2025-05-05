@@ -89,7 +89,7 @@ Siga estes passos para executar o projeto localmente:
 
 ## 🖼️ Demonstração
 
-[Aqui você poderá adicionar um link para um vídeo de demonstração do seu projeto, conforme solicitado no desafio.]
+[]
 
 ## 📂 Estrutura de Pastas
 ```text
